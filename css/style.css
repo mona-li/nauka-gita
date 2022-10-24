@@ -59,3 +59,11 @@ p {
     font-style: italic;
     margin-left: 50px;
 }
+
+.autorzy-utworu {
+    margin-top: 70px;
+    font-size: 0.75rem;
+    line-height: 1.5;
+    font-weight: 500;
+    color: #000;
+}
