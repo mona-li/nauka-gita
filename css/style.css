@@ -1,0 +1,61 @@
+/* fonts */
+/* 
+font-family: 'Anton', sans-serif;
+font-family: 'Arima', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Kiwi Maru', serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Patrick Hand', cursive;
+font-family: 'Petit Formal Script', cursive;
+*/
+body {
+    padding: 0;
+    margin: 0;
+}
+
+section {
+    height: 100vh;
+    font-size: 18px;
+    background-color: #F20587;
+}
+
+.container {
+    width: max-content;
+    margin: auto;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+}
+
+.container > div {
+    padding: 0 200px;
+}
+
+h1, h2 {
+    font-family: 'Caveat', cursive;
+    margin: 0;
+    line-height: 1.1;
+}
+
+h1 {
+    font-size: 3.5rem;
+}
+
+h2 {
+    font-size: 1.6rem;
+    margin-bottom: 50px;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    line-height: 1.6;
+    color: #F20587;
+}
+
+.highlighted-text {
+    font-style: italic;
+    margin-left: 50px;
+}
