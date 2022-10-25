@@ -69,7 +69,7 @@ p {
     color: #000;
 }
 
-.melody-number {
+.song-number {
     position: absolute;
     top: 3vh;
     left: -100px;
@@ -88,7 +88,7 @@ p {
     font-family: 'Caveat', cursive;
 }
 
-.container > .melody-number {
+.container > .song-number {
     padding: 0;
 }
 
