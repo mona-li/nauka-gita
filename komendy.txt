@@ -1,0 +1,1 @@
+npm exec html-validate *.html <-- wyświetla listę błędów we wszystkich plikach .html
